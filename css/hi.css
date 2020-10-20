@@ -1,6 +1,7 @@
 body {
     background-color:#ffb806 ;
     margin: 0px;
+    font-family: 'Piazzolla', serif;
 }
 
 .container {
@@ -36,9 +37,8 @@ width: 30%;
 float: left;
 box-sizing: border-box;
 padding: 50px;
-cursor: pointer;
-page-break-after: auto;
-margin-left: auto;
+margin: 10px 10px;
+object-fit: cover;
 }
 h2 { margin: 0%;
     color: white;
