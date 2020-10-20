@@ -1,0 +1,53 @@
+body {
+    background-color:#ffb806 ;
+    margin: 0px;
+}
+
+.container {
+
+background-color: #252021;
+padding: 80px;
+}
+
+.container h1 {
+
+text-align: center;
+color: white;
+
+}
+.container p{
+
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.pdf {
+display: table;
+clear: both;
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background-color:white ;
+}
+.box{
+width: 30%;
+float: left;
+box-sizing: border-box;
+padding: 50px;
+cursor: pointer;
+page-break-after: auto;
+margin-left: auto;
+}
+h2 { margin: 0%;
+    color: white;
+}
+p{ margin: 0px;
+    color: white;
+    line-height: 25px;
+}
+img {
+    max-width: 100%;
+    page-break-after: auto;
+}
